@@ -80,7 +80,7 @@ Because of the electrical blackout, many communities were left without communica
       </tr>
       <tr>
         <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Opening Class</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">31 Oct 2022 19:30 (GMT-5)</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">1st Nov 2022 19:00 (GMT-5)</td>
       </tr>
       <tr>
         <td rowspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Icebreaker</td>
