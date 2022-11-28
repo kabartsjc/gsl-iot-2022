@@ -92,34 +92,38 @@ During this activity, the group implemented the broker in the cloud, which recei
 
 ### 🍪🎂 Step 4 – Final Presentation  <a name = "col_ppt"></a>
 
-During this activity, the groups will present their project in a Workshop. Each group will have until 20 minutes to give the following topics:
--	**What is the problem? (3 minutes)**: In this part, the student needs to explain the situation the system plans to solve using external references (like news, papers, etc.). It is essential that the question related to the “why” needs to be answered. Try to motivate the audience to continue to watch your video.
--	**Technical Architecture of Solution (8 minutes)**: The student needs to explain the technical architecture. It is essential to identify the system’s border (what is inside and outside) and use formal language (like package, system UML diagram, or SysML). 
--	**How to configure the solution (1 minute)**: It is essential to cite the issues about how to compile, configure, and run your solution. Remember, one of the items required to deliver is the README in the git. The idea is to explain the setup and some tips for compiling the code.
--	**Demo of System (until 8 minutes)**: This part is essential to demonstrate all the system's functionalities.
+The final workshop is a critical activity in the GSL, where it is the opportunity for the groups to show the technical result of the cooperation. It follows the basic structure of an Academic Workshop and will happen asynchronously. The students will record a video of 30 minutes (maximum) to present the project and demonstrate the skills achieved during the cooperation. The Final Workshop is compulsory for all students, and not attending implies receiving zero points in the grade and reprobation in the GSL cooperation.
+To participate in the Workshop, each group needs to make a presentation using an editor (like PowerPoint, Google Slides, Canvas, etc.) which discusses the following minimum topics:
+-	**What is the problem? (until 3 minutes)**: In this part, the student needs to explain the situation the system plans to solve using external references (like news, papers, etc.). It is essential that the question related to the “why” needs to be answered. Try to motivate the audience to continue to watch your video.
+-	**Technical Architecture of Solution (until 8 minutes)**: The student needs to explain the technical architecture. It is essential to identify the system’s border (what is inside and outside) and use formal language (like package, system UML diagram, or SysML). 
+-	**How to configure the solution (until 1 minute)**: It is essential to cite the issues about how to compile, configure, and run your solution. Remember, one of the items required to deliver is the README in the git. The idea is to explain the setup and some tips for compiling the code.
+-	**Demo of System (>=8 minutes)**: This part is essential to demonstrate all the system's functionalities.
 
-It is required to use a Microsoft PowerPoint (or any alternative) to present parts A, B, and C. Students can previously record the demo to avoid the "live demo effects." However, the video cannot have audio, and the students must present the content.
+Given the time and the group size, each student must expose to a part of the presentation. It is important to remember that all students in the group need to understand the whole project and its technologies.
 
-It is required that all students in the group make part of the presentation, demonstrating an understanding of the project and the technologies used.
-
-#### Deliverables:
-The students will be published the following material to accomplish this activity until a day after the workshop:
+A **day before the workshop**, groups need to publish the following material on the GitHub Project Site:
 -	Project Source Code (GitHub) + GPL license
--	How to compile code (README file)
--	Video with your presentation in the workshop.
+- Problem and Motivation
+- How to compile code (README file)
+- Presentation file will be used in the workshop.
 
-#### Submission Instruction
-The students will submit a zip file with the following items:
--	A text file with the address of the GitHub project.
--	YouTube link to the Video Presentation
--	PowerPoint with the Project presentation
+Also, groups need to send a message in the Slack channel named “gsl-br-mex” with the link to the GitHub site. **Observation: the git hub site needs to be available for 30 days after the end of the cooperation.**
+ 
 
 #### Rubric
-- **(100 points):** **_Group Evaluation_**: During the workshop, the group defined the problem and motivation and used external references to support them. The technical architecture was presented using a formal language (like SysML or UML), and it was complete. The demo of the system demonstrated all the system’s capabilities and showed that it fully follows the requirement proposed. The README showed how to compile and install the solution. The system worked without bugs. About the **_student’s evaluation_**: the student demonstrated an understanding of the project and the technologies involved, as he answered all the questions formulated by the committee. About the **_submission_**: all required files were submitted.
-- **(80 points):** **_Group Evaluation_**: During the workshop, the group defined the problem and motivation and used external references to support them. The technical architecture was presented but did not use a formal language (like SysML or UML), or it was not complete. The demo of the system demonstrated all the system’s capabilities and showed that it fully follows the requirement proposed. The README showed how to compile and install the solution. The system worked without bugs. About the **_student’s evaluation_**: the student demonstrated an understanding of the project and the technologies involved, as he answered all the questions formulated by the committee. About the **_submission_**: all required files were submitted.
-- **(50 points):** **_Group Evaluation_**: During the workshop, the group missed discussing part of the content required in the activity definition. The system demo demonstrated part of the system’s capabilities or did not accomplish all the requirements proposed. The system worked with bugs. About the **_student’s evaluation_**: the student demonstrated an understanding of the project and the technologies involved but did not answer all the questions formulated by the committee. About the **_submission_**: all required files were submitted.
-- **(0 points):** group did not participate in the workshop, did not submit the required files, or the student did not demonstrate an understanding of the project and the technologies involved.
-
+| **Item** | **Maximum Grade** |
+| --- | --- |
+| **Speaker** |
+| The group defined the problem and motivation and used external references to support them. | 5 |
+| The technical architecture is presented using a formal language (like SysML or UML) and is complete. | 10 |
+| The student shows how to compile and install the system. | 5 |
+| The demo of the system demonstrates all the system's capabilities and shows that it fully follows the requirement proposed. | 25 |
+| The student demonstrates an understanding of the project and the technologies involved. | 15 |
+| **Documentation (GitHub)** |
+| README is the project's documentation describing how to use the system, compile and install the solution, and how use the system. | 10 |
+| The GitHub site contains the technical architecture documented using a formal language (like SysML or UML), and it is complete. | 10 |
+| The system works without bugs. | 10 |
+| All required files were published in GitHub. | 10 |
 
 ## 🤔🤔🤔💭💭 Reflection <a name = "reflection"></a>
 
