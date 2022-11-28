@@ -110,7 +110,7 @@ Because of the electrical blackout, many communities were left without communica
       </tr>
       <tr>
         <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Reflection</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Dec 2022 23:59 (GMT-5)</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">2 Dec 2022 23:59 (GMT-5)</td>
       </tr>
     </table>
 
