@@ -22,7 +22,7 @@
 - [Project Methodology](METHODOLOGY.md)
 - [Deliverables](DELIVERABLES.md)
 - [Schedule](#schedule)
-- [License](#license)
+- [License](/LICENSE)
 - [Professors](#authors)
 - [Student Groups](STUDENT.md)
 
@@ -113,10 +113,6 @@ Because of the electrical blackout, many communities were left without communica
         <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">2 Dec 2022 23:59 (GMT-5)</td>
       </tr>
     </table>
-
-## :memo: License <a name = "license"></a>
-
-This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## ✍️ Professors <a name = "authors"></a>
 <table>
