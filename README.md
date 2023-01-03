@@ -24,6 +24,7 @@
 - [Schedule](#schedule)
 - [License](/LICENSE)
 - [Professors](#authors)
+- [Course Material](tec-course)
 - [Student Groups](STUDENT.md)
 
 ## 🧐 About the Project <a name = "about"></a>
